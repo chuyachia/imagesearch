@@ -3,9 +3,9 @@
   "//2": "https://docs.npmjs.com/files/package.json",
   "//3": "updating this file will download and update your packages",
 
-  "name": "urlshortener-chuya",
+  "name": "imagesearch-chuya",
   "version": "0.0.1",
-  "description": "A simple app that gives back shortened URL",
+  "description": "Image search abstraction layer",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
